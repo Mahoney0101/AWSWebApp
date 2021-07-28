@@ -1,0 +1,5 @@
+type ShoppingItem @model {
+  id: ID!
+  name: String!
+  amount: String
+}

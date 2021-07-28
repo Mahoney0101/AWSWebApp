@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "mahoney0101cloudappd",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
