@@ -4,6 +4,17 @@
 <p>This application is focuses on functionality and minimal time was put into the aesthetic of the UI.</p>
 
 [CloudAppDevReport.docx](/CloudAppDevelopment_Mahoney.docx)
+
+<h2>Paper</h2>
+<img src="/images/CloudAppDevelopment_Mahoney-1.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-2.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-3.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-4.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-5.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-6.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-7.jpg">
+<img src="/images/CloudAppDevelopment_Mahoney-8.jpg">
+
 <h2>Screenshot</h2>
 <img src="BugLog.PNG">
 <h2> Deployed Here </h2>
