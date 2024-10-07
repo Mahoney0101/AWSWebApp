@@ -17,6 +17,3 @@
 
 <h2>Screenshot</h2>
 <img src="BugLog.PNG">
-<h2> Deployed Here </h2>
-sign up and verify email to access. 
-https://master.d7mo9jltbbuvx.amplifyapp.com/
